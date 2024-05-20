@@ -1,0 +1,1 @@
+{"name":"Local: p-3","url":"d:\\Programming\\Module 14.5\\p-3.c","tests":[{"id":1714471358432,"input":"a","output":"97"},{"id":1714471418791,"input":"A","output":"65"},{"id":1714471437175,"input":"0","output":"48"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\Module 14.5\\p-3.c","group":"local","local":true}
